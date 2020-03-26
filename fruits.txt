@@ -3,3 +3,4 @@ apple
 dragon fruit
 kivi
 banana
+pear
