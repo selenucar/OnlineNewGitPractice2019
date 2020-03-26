@@ -9,3 +9,5 @@ kavun
 karpuz
 uzum
 erik
+armut
+limon
