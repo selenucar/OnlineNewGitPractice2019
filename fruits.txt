@@ -6,3 +6,4 @@ banana
 pear
 kiraz
 kavun
+karpuz
